@@ -1,6 +1,6 @@
 # 🚢 鐵達尼號生存預測分析：法律人的 AI 實作第一課
 
-<a href="https://colab.research.google.com/github/mjib007/Titanic-Analysis/blob/main/titanic_full_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1HG8aumWRKykZ19iXERe-FVSx1YKxjLbO?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 📖 專案簡介
 本專案是專為 **法律背景專業人士** 與 **高中生** 設計的數據科學入門教材。我們不從枯燥的程式語法開始，而是從經典的鐵達尼號（Titanic）海難事件出發，帶領學習者理解如何運用 **機器學習 (Machine Learning)** 從歷史數據中發現規律，並進行預測。
