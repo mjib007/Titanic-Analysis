@@ -2,7 +2,7 @@
 
 ### 一位法律專業人士，為「知識流動」打造的 AI 機器學習入門教學系統
 
-<a href="https://colab.research.google.com/github/mjib007/Titanic-Analysis/blob/main/titanic_full_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/mjib007/Titanic-Analysis/blob/main/titanic_full_v1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mjib007&label=Profile%20views&color=4c8eda&style=flat)
 [![Stars](https://img.shields.io/github/stars/mjib007/Titanic-Analysis?style=flat&color=yellow)](https://github.com/mjib007/Titanic-Analysis/stargazers)
